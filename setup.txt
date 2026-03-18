@@ -1,0 +1,11 @@
+re
+threading
+zipfile
+pathlib
+tkinter
+fitz
+openpyxl
+langdetect
+collections
+tempfile
+shutil
